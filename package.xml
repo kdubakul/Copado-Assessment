@@ -1,79 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Contact.AccountId</members>
-        <members>Contact.AssistantName</members>
-        <members>Contact.AssistantPhone</members>
-        <members>Contact.Birthdate</members>
-        <members>Contact.Department</members>
-        <members>Contact.Description</members>
         <members>Contact.Email</members>
-        <members>Contact.EmailBouncedDate</members>
-        <members>Contact.EmailBouncedReason</members>
-        <members>Contact.Fax</members>
-        <members>Contact.HomePhone</members>
-        <members>Contact.IndividualId</members>
-        <members>Contact.IsEmailBounced</members>
-        <members>Contact.Jigsaw</members>
-        <members>Contact.JigsawContactId</members>
-        <members>Contact.LastActivityDate</members>
-        <members>Contact.LastCURequestDate</members>
-        <members>Contact.LastCUUpdateDate</members>
-        <members>Contact.LeadSource</members>
-        <members>Contact.MailingAddress</members>
-        <members>Contact.MailingGeocodeAccuracy</members>
-        <members>Contact.MasterRecordId</members>
-        <members>Contact.MobilePhone</members>
-        <members>Contact.Name</members>
-        <members>Contact.OtherAddress</members>
-        <members>Contact.OtherGeocodeAccuracy</members>
-        <members>Contact.OtherPhone</members>
-        <members>Contact.OwnerId</members>
-        <members>Contact.Phone</members>
-        <members>Contact.PhotoUrl</members>
-        <members>Contact.ReportsToId</members>
-        <members>Contact.Salutation</members>
-        <members>Contact.Title</members>
         <name>CustomField</name>
-    </types>
-    <types>
-        <members>Contact</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>standard-Contact</members>
-        <name>CustomTab</name>
-    </types>
-    <types>
-        <members>Contact.Standard_Contact_duplicate_rule</members>
-        <members>Contact.Standard_Rule_for_Contacts_with_Duplicate_Leads</members>
-        <name>DuplicateRule</name>
-    </types>
-    <types>
-        <members>Contact.AllContacts</members>
-        <members>Contact.BirthdaysThisMonth</members>
-        <members>Contact.NewThisWeek</members>
-        <name>ListView</name>
-    </types>
-    <types>
-        <members>Contact.Standard_Contact_Match_Rule_v1_1</members>
-        <name>MatchingRule</name>
-    </types>
-    <types>
-        <members>Contact</members>
-        <name>MatchingRules</name>
-    </types>
-    <types>
-        <members>Contact</members>
-        <name>SharingRules</name>
-    </types>
-    <types>
-        <members>Contact.GoogleMaps</members>
-        <members>Contact.GoogleSearch</members>
-        <members>Contact.SendGmail</members>
-        <members>Contact.YahooMaps</members>
-        <members>Contact.YahooWeather</members>
-        <name>WebLink</name>
     </types>
     <version>52.0</version>
 </Package>
