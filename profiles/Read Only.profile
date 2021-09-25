@@ -2947,10 +2947,6 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>standard-home</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>standard-report</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
