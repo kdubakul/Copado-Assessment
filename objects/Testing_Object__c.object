@@ -156,6 +156,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <fields>
         <fullName>Test_Field1__c</fullName>
+        <description>test field description</description>
         <externalId>false</externalId>
         <label>Test Field1</label>
         <length>255</length>
