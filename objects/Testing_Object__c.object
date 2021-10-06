@@ -155,6 +155,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <fields>
         <fullName>Test_Field1__c</fullName>
+        <description>test field description</description>
         <externalId>false</externalId>
         <label>Test Field1</label>
         <length>255</length>
@@ -174,7 +175,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Testing Object</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
