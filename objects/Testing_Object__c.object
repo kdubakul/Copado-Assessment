@@ -158,6 +158,7 @@
         <fullName>Test_Field1__c</fullName>
         <description>test field description</description>
         <externalId>false</externalId>
+        <inlineHelpText>Test help text</inlineHelpText>
         <label>Test Field1</label>
         <length>255</length>
         <required>false</required>
