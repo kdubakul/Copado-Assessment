@@ -9,7 +9,7 @@
         <value>Testing Object</value>
     </caseValues>
     <fields>
-        <label></label>
+        <label><!-- Test Field1 --></label>
         <name>Test_Field1__c</name>
     </fields>
     <startsWith>Consonant</startsWith>
