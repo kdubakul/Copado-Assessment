@@ -4856,6 +4856,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Testing_Object__c.Test_02__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Testing_Object__c.Test_Field1__c</field>
         <readable>true</readable>
     </fieldPermissions>
